@@ -1,8 +1,8 @@
 # PS-626-Project
 ---
-### Anonymization of Data in Healthcare Sector: A Policy Study
+## Anonymization of Data in Healthcare Sector: A Policy Study
 
-##### Members:
+### Members:
 
  - Akshay Bajpai (193079002)
  - Soham Naha (193079003)
@@ -13,28 +13,28 @@ This repository contains the codes, plots and data generated and used for
 comparing accuracies of different machine learning models, after using
 different anonymization algorithms on MIMIC-III data.
 
-##### Data:
+### Data:
 
-Dataset Name: **MIMIC-III**
-Source: https://www.kaggle.com/datasets/drscarlat/mimic3d?resource=download
-Path: data/mimic3d.csv
+ - Dataset Name: **MIMIC-III**
+ - Source: https://www.kaggle.com/datasets/drscarlat/mimic3d?resource=download
+ - Path: data/mimic3d.csv
 
 
-##### Anonymization Algorithms
+### Anonymization Algorithms
 
  - K-Anonymity
  - L-Diversity
  - T-Closeness
 
 
-##### Machine Learning Algorithms
+### Machine Learning Algorithms
 
  - Logistic Regression
  - Support Vector Classifier
  - Random Forest Classifier
  - XGBoost Classifier
 
-##### Python Dependencies
+### Python Dependencies
 
 All codes have been written for Python3.x . Following are the modules required:
 
